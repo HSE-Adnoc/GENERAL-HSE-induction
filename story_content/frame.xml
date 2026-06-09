@@ -1616,6 +1616,11 @@
             <slidelink slideid="_player.5r8w8emWp7H.5sPRsxLGu6Q" displaytext="Waste Management" expand="false" type="slide" translationId="65BNROxAXPC" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5ecOfBGZ7Ct" displaytext="Emergency Contact Numbers" expand="true" type="slide" translationId="6eQHwzRYsOC">
+          <links>
+            <slidelink slideid="_player.5ecOfBGZ7Ct.6WHmV79K7OJ" displaytext="Emergency Contact Numbers" expand="false" type="slide" translationId="6e0Tng7KQHs" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.5ifjZooWBXm" displaytext="Evacuation Procedure: Scenario" expand="true" type="slide" translationId="6dDrpSoGTN1">
           <links>
             <slidelink slideid="_player.5ifjZooWBXm.6LHo5dFY3cT" displaytext="Evacuation Procedure: Scenario" expand="false" type="slide" translationId="5mCMkZh9HNh" />
